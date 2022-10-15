@@ -1,6 +1,16 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">Hi, I'm Nils</h2>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hi there, I'm Nils!
 
-### About Me
+### field of interests
 
-- 🎓 I'm currently studying Data Science at [University of Applied Sciences Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en)
-- 🏢 Former **Software Engineer** (apprentice) at [Swiss Post](https://www.post.ch/en) and [PostFinance](https://www.postfinance.ch/en)
+- 🌱 productivity
+- 🌉 vc/startups
+- 🤖 simultaneous localization and mapping
+- 👥 recommender systems
+
+### currently
+
+- 🎓 BSc Data Science freshman at [University of Applied Sciences Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en)
+
+### previously
+- 🎓 high school diploma (matura 🇨🇭) at [WKS School of Economics](https://www.wksbern.ch/)
+- 🏢 apprenticeship as a **Software Engineer** at [Swiss Post](https://www.post.ch/en) & [PostFinance](https://www.postfinance.ch/en)
