@@ -5,7 +5,7 @@
 - 🌱 productivity
 - 🌉 vc/startups
 - 🤖 simultaneous localization and mapping
-- 👥 recommender systems
+- 👥 social networks
 
 #### currently
 
@@ -15,3 +15,5 @@
 
 - 🎓 high school diploma (matura 🇨🇭) at [WKS School of Economics](https://www.wksbern.ch/)
 - 🏢 apprenticeship as a **Software Engineer** at [Swiss Post](https://www.post.ch/en) & [PostFinance](https://www.postfinance.ch/en)
+
+— for more check my website at [nils.me](https://nils.me)
