@@ -9,7 +9,7 @@
 
 #### currently
 
-- 🎓 BSc Data Science freshman at [University of Applied Sciences Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en)
+- 🎓 BSc Data Science sophomore at [University of Applied Sciences Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en)
 
 #### previously
 
