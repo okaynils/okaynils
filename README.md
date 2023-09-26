@@ -4,7 +4,7 @@
 
 - 🌱 productivity
 - 🌉 vc/startups
-- 🤖 simultaneous localization and mapping
+- 🤖 computer vision & ML
 - 👥 social networks
 
 #### currently
