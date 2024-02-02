@@ -5,7 +5,6 @@
 - 🌱 productivity
 - 🌉 vc/startups
 - 🤖 computer vision & ML
-- 👥 social networks
 
 #### currently
 
