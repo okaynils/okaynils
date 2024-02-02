@@ -2,17 +2,17 @@
 
 #### fields of interests
 
-- 🌱 productivity
-- 🌉 vc/startups
-- 🤖 computer vision & ML
+🌱 productivity
+🌉 vc/startups
+🤖 computer vision & ML
 
 #### currently
 
-- 🎓 BSc Data Science sophomore at [University of Applied Sciences Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en)
+🎓 BSc Data Science sophomore at [University of Applied Sciences Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en)
 
 #### previously
 
-- 🎓 high school diploma (matura 🇨🇭) at [WKS School for Business and Management](https://www.wksbern.ch/)
-- 🏢 apprenticeship as a **Software Engineer** at [Swiss Post](https://www.post.ch/en) & [PostFinance](https://www.postfinance.ch/en)
+🎓 high school diploma (matura 🇨🇭) at [WKS School for Business and Management](https://www.wksbern.ch/)
+🏢 apprenticeship as a **Software Engineer** at [Swiss Post](https://www.post.ch/en) & [PostFinance](https://www.postfinance.ch/en)
 
 — for more check my website at [nils.me](https://nils.me)
