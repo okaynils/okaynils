@@ -1,1 +1,1 @@
-i like machine learning
+exploring machine intelligence, computer vision and robotics.
